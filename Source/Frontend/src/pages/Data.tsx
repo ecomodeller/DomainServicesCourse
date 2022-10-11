@@ -54,7 +54,7 @@ const Data = observer(() => {
       <nav className={classes.appBar}>
         <div className={classes.spacer} />
         <h3>
-          Domain Services Enabler Course - Sample Web App - {appStore.version}
+          Domain Services Enabler Course - THE Web App - {appStore.version}
         </h3>
         <div className={classes.spacer} />
         <Button
